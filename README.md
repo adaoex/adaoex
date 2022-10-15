@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adaoex 
+- 👋 Hi, I’m Adão 
 - 👀 I’m interested in database administration and data analysis
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on data communities
