@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adão 
-- 👀 I’m interested in database administration and data analysis
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in software and data architecture
+- 🌱 I’m currently learning data science and data architecture
 - 💞️ I’m looking to collaborate on data communities
 - 📫 How to reach me @adaoex (Twitter) and adao@adao.eti.br
 
